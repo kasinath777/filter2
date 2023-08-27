@@ -1,0 +1,35 @@
+p{
+font-size: 20px;
+color:aliceblue;
+}
+h1,h2{
+color:aliceblue;
+}
+
+h1{
+font-size: 40px;
+}
+
+#takeselfie{
+font-size: 20px;
+
+}
+
+body{
+background-image: url("https://images-cdn.ubuy.co.in/633feb35a8832541760a1b77-5x7ft-fabric-black-of-grey-abstract.jpg") ;
+background-repeat: no-repeat;
+background-size: cover;
+background-position: center;
+}
+
+img{
+width: 70px;
+height: 70px;
+background-color: white;
+}
+
+canvas{
+border: 5px dotted white;
+margin-top: 150px;
+}
+
